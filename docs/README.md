@@ -1,4 +1,4 @@
-# 🌄 25th Hour — A dynamic desktop wallpaper based on the 25th hour SVG animation
+# 🌄 25th Hour
 
 Dynamic desktop wallpaper for macOS 10.14 Mojave based on [Louis Coyles
 Lakeside Sunrise][lakeside-sunrise] and its [SVG animation 25th
