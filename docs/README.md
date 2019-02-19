@@ -17,6 +17,12 @@ Clone this repository and run `make`. This needs to be repeated for every
 desktop, since macOS does not allow setting the wallpaper for inactive
 desktops.
 
+## Troubleshooting
+
+Sometimes, the wallpaper is not set in dynamic mode. To fix this, change your
+wallpaper to either of the two dynamic wallpapers that ship with macOS, set the
+mode to *Dynamic* and install again.
+
 ## License
 
 25th-hour is [licensed under an MIT license][license].
