@@ -1,6 +1,6 @@
 [
   {
-    "fileName": "001.png",
+    "fileName": "assets/001.png",
     "isPrimary": false,
     "isForLight": true,
     "isForDark": false,
@@ -8,7 +8,7 @@
     "azimuth": 104.57
   },
   {
-    "fileName": "002.png",
+    "fileName": "assets/002.png",
     "isPrimary": true,
     "isForLight": true,
     "isForDark": false,
@@ -16,7 +16,7 @@
     "azimuth": 118.86
   },
   {
-    "fileName": "003.png",
+    "fileName": "assets/003.png",
     "isPrimary": false,
     "isForLight": true,
     "isForDark": false,
@@ -24,7 +24,7 @@
     "azimuth": 137.29
   },
   {
-    "fileName": "004.png",
+    "fileName": "assets/004.png",
     "isPrimary": false,
     "isForLight": true,
     "isForDark": false,
@@ -32,7 +32,7 @@
     "azimuth": 162.33
   },
   {
-    "fileName": "005.png",
+    "fileName": "assets/005.png",
     "isPrimary": false,
     "isForLight": true,
     "isForDark": false,
@@ -40,7 +40,7 @@
     "azimuth": 191.99
   },
   {
-    "fileName": "006.png",
+    "fileName": "assets/006.png",
     "isPrimary": false,
     "isForLight": true,
     "isForDark": false,
@@ -48,7 +48,7 @@
     "azimuth": 218.38
   },
   {
-    "fileName": "007.png",
+    "fileName": "assets/007.png",
     "isPrimary": false,
     "isForLight": true,
     "isForDark": false,
@@ -56,7 +56,7 @@
     "azimuth": 238.01
   },
   {
-    "fileName": "008.png",
+    "fileName": "assets/008.png",
     "isPrimary": false,
     "isForLight": true,
     "isForDark": false,
@@ -64,7 +64,7 @@
     "azimuth": 252.93
   },
   {
-    "fileName": "009.png",
+    "fileName": "assets/009.png",
     "isPrimary": false,
     "isForLight": false,
     "isForDark": true,
@@ -72,7 +72,7 @@
     "azimuth": 265.89
   },
   {
-    "fileName": "010.png",
+    "fileName": "assets/010.png",
     "isPrimary": false,
     "isForLight": false,
     "isForDark": true,
@@ -80,7 +80,7 @@
     "azimuth": 279.50
   },
   {
-    "fileName": "011.png",
+    "fileName": "assets/011.png",
     "isPrimary": false,
     "isForLight": false,
     "isForDark": true,
@@ -88,7 +88,7 @@
     "azimuth": 297.82
   },
   {
-    "fileName": "012.png",
+    "fileName": "assets/012.png",
     "isPrimary": false,
     "isForLight": false,
     "isForDark": true,
@@ -96,7 +96,7 @@
     "azimuth": 330.14
   },
   {
-    "fileName": "013.png",
+    "fileName": "assets/013.png",
     "isPrimary": false,
     "isForLight": false,
     "isForDark": true,
@@ -104,7 +104,7 @@
     "azimuth": 20.97
   },
   {
-    "fileName": "014.png",
+    "fileName": "assets/014.png",
     "isPrimary": false,
     "isForLight": false,
     "isForDark": true,
@@ -112,7 +112,7 @@
     "azimuth": 57.69
   },
   {
-    "fileName": "015.png",
+    "fileName": "assets/015.png",
     "isPrimary": false,
     "isForLight": false,
     "isForDark": true,
@@ -120,7 +120,7 @@
     "azimuth": 77.70
   },
   {
-    "fileName": "016.png",
+    "fileName": "assets/016.png",
     "isPrimary": false,
     "isForLight": false,
     "isForDark": true,
