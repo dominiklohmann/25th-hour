@@ -11,6 +11,12 @@ using `ffmpeg -i 25th-hour.mov -vf fps=16/60 assets/%03d.png` to convert into
 The frames were then converted into a HEIC file using
 [wallpapper][gh-wallpapper].
 
+## Installation
+
+Clone this repository and run `make`. This needs to be repeated for every
+desktop, since macOS does not allow setting the wallpaper for inactive
+desktops.
+
 ## License
 
 25th-hour is [licensed under an MIT license][license].

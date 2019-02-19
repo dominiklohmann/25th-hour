@@ -1,0 +1,6 @@
+[submodule "external/macos-wallpaper"]
+	path = external/macos-wallpaper
+	url = git://github.com/sindresorhus/macos-wallpaper.git
+[submodule "external/wallpapper"]
+	path = external/wallpapper
+	url = git://github.com/mczachurski/wallpapper.git
