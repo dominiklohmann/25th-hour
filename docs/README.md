@@ -2,7 +2,7 @@
 
 <img align="right" width="40%" src="preview.gif">
 
-Dynamic desktop wallpaper for macOS 10.14 Mojave based on [Louis Coyles
+Dynamic desktop wallpaper for macOS 10.14 Mojave based on [Louis Coyle's
 Lakeside Sunrise][lakeside-sunrise] and its [SVG animation 25th
 hour][25th-hour].
 
@@ -16,9 +16,13 @@ The frames can then be converted into a HEIC file using
 
 ## Installation
 
-Clone this repository and run `make`. This needs to be repeated for every
-desktop, since macOS does not allow setting the wallpaper for inactive
-desktops.
+There is a pre-built dynamic desktop wallpaper available for download
+[here][latest-release]. Put it in whatever directory you want, right-click the
+file and select `Services > Set Desktop Picture`.
+
+If you want to build from source, clone this repository and run `make`. This
+needs to be repeated for every desktop, since macOS does not allow setting the
+wallpaper for inactive desktops.
 
 ## Troubleshooting
 
@@ -34,4 +38,5 @@ mode to *Dynamic* and install again.
 [25th-hour]: http://louie.co.nz/25th_hour/
 [gh-wallpapper]: https://github.com/mczachurski/wallpapper
 [gh-macos-wallpaper]: https://github.com/sindresorhus/macos-wallpaper
+[latest-release]: https://github.com/dominiklohmann/25th-hour/releases/latest
 [license]: /LICENSE
